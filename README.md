@@ -1,4 +1,4 @@
-# Web App intertwines Data Transform with Visualization for analytic and reporting 
+# A Web app entwines Data Transform with Visualization for analytic and reporting 
 Business intelligence tool to allow users of all skill level to maximize self-service reporting and analytics. Visually build data tranformation pipeline and associated reports/dashobards in an embeddable web user interface. Advantages:
 
 1. Visual Design with visibility the complete transform graph. Allows for inject control and KPI on different tap point
