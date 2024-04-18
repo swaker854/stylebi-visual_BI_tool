@@ -3,4 +3,4 @@ Business intelligence tool to allow users of all skill level to maximize self-se
 
 1. Visual Design with visibility the complete transform graph. Allows for inject control and KPI on different tap point
 2. Visual Driven materialization
-3. Visual Data Quality Monitoring: data quality monitoring dashboard and inline data quality visual widgets
+3. Visual Data Quality Monitoring: data quality monitoring data blocks and alerts backed by visual widgets to drill down into data lineage for root cause 
